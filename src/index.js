@@ -11,7 +11,7 @@ class App extends Component{
     render(){
           return(
                 <div>
-                    <Navigation LogoTitle="Abdullah Çok Personal Homepage"/>
+                    <Navigation LogoTitle="Abdullah Çok Personal Portfolio Homepage"/>
                     <Header title="Welcome here..." button="Then follow me..."/>
                     <Works/>
                 </div>

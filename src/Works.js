@@ -25,7 +25,7 @@ class Works extends Component {
 const iconObj = [
           {
                 icon: <i class="fas fa-laptop-code"></i>,
-                title: 'Coding',
+                title: 'Front-End Development',
                 description: 'Serve something to help someone'
           },
           {
